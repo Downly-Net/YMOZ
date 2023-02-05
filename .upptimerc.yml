@@ -9,6 +9,10 @@ sites:
     port: 443
     check: "tcp-ping"
     url: https://_imap._tcp.ymoz.com
+  - name: SOGo
+    url: https://mail.ymoz.com/SOGo
+  - name: Email admin
+    url: https://mail.ymoz.com  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
