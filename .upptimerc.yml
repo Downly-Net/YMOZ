@@ -21,7 +21,7 @@ sites:
       - 201
       - 401
       - 404
-   - name: CardDav
+  - name: CardDav
     method: POST
     url: https://$IMAPSERVER/SOGo/dav/ 
     expectedStatusCodes:
