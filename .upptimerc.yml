@@ -6,13 +6,13 @@ sites:
   - name: Main site
     url: https://ymoz.com
   - name: IMAP
-    url: https://$imapserver
+    url: https://$IMAPSERVER
   - name: POP
-    url: https://$imapserver  
+    url: https://$IMAPSERVER  
   - name: SOGo
     url: https://mail.ymoz.com/SOGo
   - name: Email admin
-    url: https://$imapserver
+    url: https://$IMAPSERVER
   - name: CalDav
     method: POST
     url: https://mail.ymoz.com/SOGo/dav/ 
