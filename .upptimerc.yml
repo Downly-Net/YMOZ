@@ -25,6 +25,8 @@ status-website:
       
   status-website:
   theme: light    
+  favicon: https://ymoz.com/assets/favicon/favicon.ico
+  faviconSvg: https://ymoz.com/assets/favicon/safari-pinned-tab.svg
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
