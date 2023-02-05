@@ -24,7 +24,7 @@ status-website:
       href: https://ymoz.com
       
   status-website:
-  theme: light    
+  theme: dark    
   favicon: https://ymoz.com/assets/favicon/favicon.ico
   faviconSvg: https://ymoz.com/assets/favicon/safari-pinned-tab.svg
 
