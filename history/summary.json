@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 703,
-    "timeWeek": 703,
-    "timeMonth": 703,
-    "timeYear": 703,
+    "time": 722,
+    "timeDay": 722,
+    "timeWeek": 722,
+    "timeMonth": 722,
+    "timeYear": 722,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "imap",
     "status": "down",
-    "uptime": "97.31%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "97.31%",
-    "uptimeYear": "97.31%",
+    "uptime": "86.72%",
+    "uptimeDay": "86.72%",
+    "uptimeWeek": "86.72%",
+    "uptimeMonth": "86.72%",
+    "uptimeYear": "86.72%",
     "time": 992,
     "timeDay": 992,
     "timeWeek": 992,
     "timeMonth": 992,
     "timeYear": 992,
+    "dailyMinutesDown": {
+      "2023-02-05": 1
+    }
+  },
+  {
+    "name": "POP",
+    "url": "https://$imapserver",
+    "icon": "https://icons.duckduckgo.com/ip3/.ico",
+    "slug": "pop",
+    "status": "down",
+    "uptime": "9.11%",
+    "uptimeDay": "9.11%",
+    "uptimeWeek": "9.11%",
+    "uptimeMonth": "9.11%",
+    "uptimeYear": "9.11%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
       "2023-02-05": 0
     }
@@ -48,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 432,
-    "timeWeek": 432,
-    "timeMonth": 432,
-    "timeYear": 432,
+    "time": 492,
+    "timeDay": 492,
+    "timeWeek": 492,
+    "timeMonth": 492,
+    "timeYear": 492,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "email-admin",
     "status": "down",
-    "uptime": "97.20%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "97.20%",
-    "uptimeMonth": "97.20%",
-    "uptimeYear": "97.20%",
+    "uptime": "85.56%",
+    "uptimeDay": "85.56%",
+    "uptimeWeek": "85.56%",
+    "uptimeMonth": "85.56%",
+    "uptimeYear": "85.56%",
     "time": 299,
     "timeDay": 299,
     "timeWeek": 299,
     "timeMonth": 299,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2023-02-05": 0
+      "2023-02-05": 1
     }
   },
   {
@@ -81,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.ymoz.com.ico",
     "slug": "cal-dav",
     "status": "down",
-    "uptime": "1.42%",
-    "uptimeDay": "1.42%",
-    "uptimeWeek": "1.42%",
-    "uptimeMonth": "1.42%",
-    "uptimeYear": "1.42%",
-    "time": 126,
-    "timeDay": 126,
-    "timeWeek": 126,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "uptime": "0.63%",
+    "uptimeDay": "0.63%",
+    "uptimeWeek": "0.63%",
+    "uptimeMonth": "0.63%",
+    "uptimeYear": "0.63%",
+    "time": 133,
+    "timeDay": 133,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 133,
     "dailyMinutesDown": {
-      "2023-02-05": 3
+      "2023-02-05": 4
     }
   }
 ]
