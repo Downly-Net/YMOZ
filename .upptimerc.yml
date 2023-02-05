@@ -44,6 +44,10 @@ status-website:
     - name: "robots"
       content: "noindex"
       
+  commitMessages:
+  commitAuthorName: "Downly Bot"
+  commitAuthorEmail: "bot@downly.net"    
+      
 user-agent: Downly-Net
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
