@@ -15,12 +15,20 @@ sites:
     url: https://$IMAPSERVER
   - name: CalDav
     method: POST
-    url: https://mail.ymoz.com/SOGo/dav/ 
+    url: https://$IMAPSERVER/SOGo/dav/ 
     expectedStatusCodes:
       - 200
       - 201
       - 401
       - 404
+   - name: CardDav
+    method: POST
+    url: https://$IMAPSERVER/SOGo/dav/ 
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
+      - 404   
    
 
 status-website:
@@ -28,14 +36,12 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ymoz.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: YMOZ Network Status
+  logoUrl: https://ymoz.com/assets/img/logo-light.svg
+  name: Network Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This **real-time** status page collects data for YMOZ services.
   navbar:
-    - title: YMOZ Status
-      href: /
-    - title: YMOZ
+    - title: Home
       href: https://ymoz.com
       
   status-website:
