@@ -22,6 +22,9 @@ status-website:
       href: /
     - title: YMOZ
       href: https://ymoz.com
+      
+  status-website:
+  theme: light    
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
