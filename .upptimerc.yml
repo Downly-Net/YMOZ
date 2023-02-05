@@ -16,6 +16,11 @@ sites:
   - name: CalDav
     method: POST
     url: https://mail.ymoz.com/SOGo/dav/ 
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
+      - 404
    
 
 status-website:
