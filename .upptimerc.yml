@@ -38,7 +38,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://ymoz.com/assets/img/logo-light.svg
   name: Network Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "Uptime monitor and status page for **YMOZ** powered by **Downly**."
   introMessage: This **real-time** status page collects data for YMOZ services.
   navbar:
     - title: Home
