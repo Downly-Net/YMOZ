@@ -1,7 +1,7 @@
 url: https://$IMAPSERVER/SOGo/dav/
 status: up
 code: 401
-responseTime: 91
-lastUpdated: 2023-02-13T23:11:46.072Z
+responseTime: 95
+lastUpdated: 2023-02-14T23:11:31.885Z
 startTime: Sun Feb 05 2023 23:53:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
