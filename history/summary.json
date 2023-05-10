@@ -22,18 +22,19 @@
     "url": "https://$IMAPSERVER",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "imap",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 569,
     "timeDay": 412,
     "timeWeek": 631,
     "timeMonth": 590,
     "timeYear": 569,
     "dailyMinutesDown": {
+      "2023-05-10": 1,
       "2023-04-21": 20
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://$IMAPSERVER",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "pop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -54,6 +55,7 @@
     "timeMonth": 268,
     "timeYear": 265,
     "dailyMinutesDown": {
+      "2023-05-10": 0,
       "2023-04-21": 20
     }
   },
