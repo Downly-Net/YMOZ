@@ -4,19 +4,19 @@
     "url": "https://ymoz.com",
     "icon": "https://icons.duckduckgo.com/ip3/ymoz.com.ico",
     "slug": "main-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 745,
-    "timeDay": 704,
-    "timeWeek": 725,
-    "timeMonth": 710,
-    "timeYear": 745,
+    "time": 744,
+    "timeDay": 673,
+    "timeWeek": 715,
+    "timeMonth": 708,
+    "timeYear": 744,
     "dailyMinutesDown": {
-      "2023-08-02": 0
+      "2023-08-02": 11
     }
   },
   {
