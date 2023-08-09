@@ -22,10 +22,10 @@
     "url": "https://$IMAPSERVER",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "imap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 573,
@@ -34,6 +34,7 @@
     "timeMonth": 583,
     "timeYear": 573,
     "dailyMinutesDown": {
+      "2023-08-09": 2,
       "2023-07-07": 20,
       "2023-04-21": 20
     }
@@ -43,18 +44,19 @@
     "url": "https://$IMAPSERVER",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "pop",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 265,
     "timeDay": 317,
     "timeWeek": 296,
     "timeMonth": 270,
     "timeYear": 265,
     "dailyMinutesDown": {
+      "2023-08-09": 1,
       "2023-07-07": 20,
       "2023-04-21": 20
     }
@@ -64,18 +66,19 @@
     "url": "https://mail.ymoz.com/SOGo",
     "icon": "https://icons.duckduckgo.com/ip3/mail.ymoz.com.ico",
     "slug": "so-go",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 249,
     "timeDay": 286,
     "timeWeek": 277,
     "timeMonth": 252,
     "timeYear": 249,
     "dailyMinutesDown": {
+      "2023-08-09": 1,
       "2023-07-07": 20,
       "2023-04-21": 20
     }
@@ -85,18 +88,19 @@
     "url": "https://$IMAPSERVER",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "email-admin",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 264,
     "timeDay": 297,
     "timeWeek": 294,
     "timeMonth": 270,
     "timeYear": 264,
     "dailyMinutesDown": {
+      "2023-08-09": 1,
       "2023-07-07": 20,
       "2023-04-21": 20
     }
@@ -106,9 +110,9 @@
     "url": "https://$IMAPSERVER/SOGo/dav/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "cal-dav",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -118,6 +122,7 @@
     "timeMonth": 126,
     "timeYear": 122,
     "dailyMinutesDown": {
+      "2023-08-09": 0,
       "2023-07-07": 19
     }
   },
@@ -126,9 +131,9 @@
     "url": "https://$IMAPSERVER/SOGo/dav/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "card-dav",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -138,6 +143,7 @@
     "timeMonth": 125,
     "timeYear": 121,
     "dailyMinutesDown": {
+      "2023-08-09": 0,
       "2023-07-07": 19
     }
   }
