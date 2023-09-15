@@ -1,7 +1,7 @@
 url: https://$IMAPSERVER
 status: up
 code: 200
-responseTime: 677
-lastUpdated: 2023-09-15T21:05:21.811Z
+responseTime: 589
+lastUpdated: 2023-09-15T23:09:18.107Z
 startTime: 2023-02-05T23:03:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
