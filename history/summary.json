@@ -31,19 +31,19 @@
     "url": "https://$IMAPSERVER",
     "icon": "https://icons.duckduckgo.com/ip3/$imapserver.ico",
     "slug": "imap",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 604,
-    "timeDay": 667,
-    "timeWeek": 713,
-    "timeMonth": 653,
+    "timeDay": 669,
+    "timeWeek": 708,
+    "timeMonth": 654,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2025-10-02": 0
+      "2025-10-02": 12
     }
   },
   {
