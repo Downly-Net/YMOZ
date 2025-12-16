@@ -4,7 +4,7 @@
     "url": "https://ymoz.com",
     "icon": "https://icons.duckduckgo.com/ip3/ymoz.com.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
@@ -16,6 +16,7 @@
     "timeMonth": 833,
     "timeYear": 821,
     "dailyMinutesDown": {
+      "2025-12-16": 0,
       "2025-12-14": 29,
       "2025-12-11": 27,
       "2025-09-01": 75,
