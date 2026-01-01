@@ -39,16 +39,18 @@
     "slug": "imap",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
+    "time": 637,
     "timeDay": 860,
     "timeWeek": 728,
     "timeMonth": 718,
-    "timeYear": 655,
-    "dailyMinutesDown": {}
+    "timeYear": 656,
+    "dailyMinutesDown": {
+      "2026-01-01": 0
+    }
   },
   {
     "name": "POP",
