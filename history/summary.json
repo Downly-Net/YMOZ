@@ -82,9 +82,9 @@
     "url": "https://mail.ymoz.com/SOGo",
     "icon": "https://icons.duckduckgo.com/ip3/mail.ymoz.com.ico",
     "slug": "so-go",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,7 +93,9 @@
     "timeWeek": 225,
     "timeMonth": 237,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-15": 0
+    }
   },
   {
     "name": "Email admin",
