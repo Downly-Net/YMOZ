@@ -11,9 +11,9 @@
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.63%",
     "time": 821,
-    "timeDay": 888,
-    "timeWeek": 859,
-    "timeMonth": 836,
+    "timeDay": 918,
+    "timeWeek": 861,
+    "timeMonth": 837,
     "timeYear": 836,
     "dailyMinutesDown": {
       "2025-09-01": 75,
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 693,
-    "timeDay": 984,
-    "timeWeek": 767,
-    "timeMonth": 729,
+    "timeDay": 796,
+    "timeWeek": 777,
+    "timeMonth": 728,
     "timeYear": 712,
     "dailyMinutesDown": {
       "2026-01-01": 37,
@@ -77,11 +77,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 741,
-    "timeWeek": 700,
-    "timeMonth": 652,
-    "timeYear": 281,
+    "time": 250,
+    "timeDay": 726,
+    "timeWeek": 709,
+    "timeMonth": 654,
+    "timeYear": 283,
     "dailyMinutesDown": {}
   },
   {
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 341,
-    "timeDay": 906,
-    "timeWeek": 836,
-    "timeMonth": 794,
-    "timeYear": 378,
+    "time": 343,
+    "timeDay": 950,
+    "timeWeek": 859,
+    "timeMonth": 797,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2026-04-15": 59
     }
@@ -115,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 753,
-    "timeWeek": 685,
-    "timeMonth": 661,
-    "timeYear": 277,
+    "time": 245,
+    "timeDay": 759,
+    "timeWeek": 698,
+    "timeMonth": 663,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -133,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 170,
-    "timeDay": 444,
-    "timeWeek": 415,
-    "timeMonth": 395,
-    "timeYear": 188,
+    "time": 171,
+    "timeDay": 450,
+    "timeWeek": 424,
+    "timeMonth": 397,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2026-03-11": 57
     }
@@ -154,10 +154,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 447,
-    "timeWeek": 420,
-    "timeMonth": 395,
-    "timeYear": 188,
+    "timeDay": 452,
+    "timeWeek": 427,
+    "timeMonth": 396,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   }
 ]
